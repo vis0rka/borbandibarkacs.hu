@@ -712,13 +712,6 @@ export const cataloguePages = [
         "html": "\n\n\n<p>A <strong>TOUGH SYSTEM</strong> mobil és moduláris tárolórendszer, amely lehetővé teszi, hogy gyorsan és egyszerűen változtathatja a napi szerszámösszeállításokat. A dobozokat tetszés szerint rendezheti, és ideális kombinációt kap a munkájához.<br/> <strong>ALKALMAZKODÓKÉPES</strong><br/> Válasszon a négy különbözo tárolási lehetőség közül – szerszámtartó doboz  rendezővel apró alkatrészeknek és szerszámoknak, nagy szerszámosláda általános használatra, tágas és mély doboz nagy elektromos szerszámoknak. Válassza ki a napi munkához ideális kombinációt.<br/> <strong>IDŐMEGTAKARÍTÁS</strong><br/> Egyedülálló szabadalmaztatott rendszer, amely lehetové teszi az egyes dobozok egyenkénti áthelyezését anélkül, hogy át kellene építenie a többit.<br/> <strong>MOBILITÁS</strong><br/> A hordozó rendszer központi záras, amellyel egyszerre biztosítható az összes szerszámosdoboz.<br/> A szállítókocsi más felszerelések és anyagok szállítására is alkalmas. A 216 mm-es nagyméretű kerekek nehéz terepen is könnyen fordulnak. A dobozok hordozhatók – egyszeruen egymáshoz kapcsolhatók, összerakhatók és szállíthatók.<br/> <strong>TEHERBÍRÓ ÉS ELLENÁLLÓKÉPES</strong><br/> A 4 mm vastag dobozok vasaltak is és masszív fémzárakkal felszereltek – ezáltal a lehető legnagyobb terhelhetoséget az ütésállóságot kínálják Önnek. A nagy igénybevételre kifejlesztett hordozó lenyitható aljzattal rendelkezik, amely akár 120kg ot is elbír. <br/> <strong>VÉDELEM ÉS BIZTONSÁG</strong><br/> A dobozok porral és fröccsenő vízzel szemben ellenállóak (részben IP65-ig), így minden időjárástól védik az értékes szerszámokat. Felső részükön vákum szelep található.</p>\n<h3><strong>A dewalt szerszámok mestere: A Borbándi Barkács!</strong></h3>\n<p><strong>További információért érdeklődjön az üzletünkben vagy telefonon!</strong></p>\n\n",
         "kind": "section"
       }
-    ],
-    "downloads": [
-      {
-        "name": "ebrochure.pdf",
-        "href": "https://web.archive.org/web/20240803000000/https://www.dewalt.hu/DWbrochureStorage/catalogue/13/ebrochure.pdf",
-        "local": false
-      }
     ]
   },
   {
@@ -846,13 +839,6 @@ export const cataloguePages = [
         "html": "\n\n\n<ul>\n<li>Sika® Primer-3 N</li>\n<li>Sika® Tooling Agent N</li>\n<li>SikaLayer®-03</li>\n<li>SikaPlus®-1/2</li>\n<li>Sika® háttérkitöltő profil</li>\n<li>Sika® Fixing Tape</li>\n<li>Sika® kinyomópisztolyok</li>\n<li>Sika® Aktivator-205</li>\n<li>SikaTack® Panel Primer</li>\n<li>Sika® Remover-208</li>\n</ul>\n\n",
         "kind": "item"
       }
-    ],
-    "downloads": [
-      {
-        "name": "Sika-Termék-Katalógus_Kereskedelem_2018.pdf",
-        "href": "https://web.archive.org/web/20240803000000/http://borbandibarkacs.hu/wp-content/uploads/2019/02/Sika-Term%C3%A9k-Katal%C3%B3gus_Kereskedelem_2018.pdf",
-        "local": false
-      }
     ]
   },
   {
@@ -895,13 +881,6 @@ export const cataloguePages = [
         "title": "Az aktuális árainkról és a készletről, kérlek érdeklődj telefonon, emailben vagy személyesen.",
         "html": "\n\n",
         "kind": "section"
-      }
-    ],
-    "downloads": [
-      {
-        "name": "HH-Main-Catalog-2019-Work-wear.pdf",
-        "href": "https://web.archive.org/web/20240803000000/http://borbandibarkacs.hu/wp-content/uploads/2019/10/HH-Main-Catalog-2019-Work-wear.pdf",
-        "local": false
       }
     ]
   },
@@ -964,8 +943,7 @@ export const cataloguePages = [
         "html": "\n\n",
         "kind": "section"
       }
-    ],
-    "downloads": []
+    ]
   },
   {
     "slug": "alapcsavarok-dubelek",
@@ -990,8 +968,7 @@ export const cataloguePages = [
         "html": "\n\n\n<h4><strong>Speciális helyzetekre – acél dübel</strong></h4>\n<p>A legtöbb embernek első hallásra talán a műanyagból készült dűbel ugrik be. A Barkácsguru által kínált dübel azonban nem egészen ez.</p>\n<p>Az általunk forgalmazott dübel acélból készült – horganyzott vagy saválló változatban a lehető legnagyobb tartósságért. Az acélból készült dübel tartóssága, betonban való rögzítettsége, tartóereje nem hagyhat kívánnivalót maga után.</p>\n<p><strong>Dübel</strong> <strong>– kínálat a Borbándi Barkácsnál</strong></p>\n<ul>\n<li><strong>Méretek:</strong> több méretben is kapható – a legjobb munkák megvalósításáért.</li>\n<li><strong>Felületkezelés:</strong> acél-horganyzott, A4-saválló változatban kaphatóak</li>\n<li><strong>Kiszerelések:</strong> amennyiben a kedves vásárlóink alapcsavar iránt érdeklődnek, tőlünk kis és nagy kiszerelésben szerezhetik be a terméket.</li>\n</ul>\n<h2>Borbándi Barkács– mert a vásárló többet érdemel az elvártnál.</h2>\n\n",
         "kind": "section"
       }
-    ],
-    "downloads": []
+    ]
   },
   {
     "slug": "belso-kulcsnyilasu-metrikus-csavarok",
@@ -1040,8 +1017,7 @@ export const cataloguePages = [
         "html": "\n\n\n<p><strong>Süllyesztettfejű belső kulcsnyílású csavar – az egyik legspeciálisabb megoldás</strong></p>\n<p>Nem egyszerűen a szűk helyek eszköze, hanem azoké a helyeké, ahol a legkisebb kiemelkedés sem megengedett. Helyszűke vagy éppen biztonsági okokból sok esetben szükséges a síkfelülettel teljesen egy síkban elhelyezkedő, a legkisebb teret sem foglaló süllyesztettfejű belső kulcsnyílású csavar típust választania.</p>\n<p><strong>Válasszon testre szabottan</strong></p>\n<p>Amennyiben süllyesztettfejű belső kulcsnyílású csavar, akkor Ön csak a legjobbat, legideálisabbat kaphatja. Éppen ezért számos szempont szerint választhat üzletünkben:</p>\n<ul>\n<li><strong>Méret</strong>: itt nem is érdemes felsorolnunk a lehetőségeit a nagyszámú méretvariációk miatt – nézzen szét személyesen weboldalunkon, illetve üzletünkben!</li>\n<li><strong>Anyagminőség</strong>: ne bízza a véletlenre – válasszon az adott munka „igényei szerint! A2-es, 10.9-es változatok várják kedves vásárlóinkat.</li>\n<li><strong>Felületkezelés</strong>: a süllyesztettfejű belső kulcsnyílású csavar felhasználási területe igen széles. Éppen ezért érdemes megfontolnia, hogy az adott feladathoz natúr, rozsdamentes vagy horganyzott változat „passzol”.</li>\n<li><strong>Kiszerelés</strong>: üzletünk kínálata az Ön igényeit tükrözi. Kisebb vagy nagyobb kiszerelés érdekli? Teljesen mindegy. A Borbándi Barkácsnál megkapja!</li>\n</ul>\n<h2>Tegye a legfontosabb pontokat a szem számára láthatatlanná a süllyesztettfejű belső kulcsnyílású csavar használatával!</h2>\n\n",
         "kind": "section"
       }
-    ],
-    "downloads": []
+    ]
   },
   {
     "slug": "hatlapfeju-metrikus-csavarok",
@@ -1090,8 +1066,7 @@ export const cataloguePages = [
         "html": "\n\n\n<p><strong>Kétféle változat</strong></p>\n<p>Válassza az Önnek legmegfelelőbb megoldást! A peremes hatlapfejű csavar recézett, illetve sima peremmel is elérhető a házi „barkácsguruk”, illetve profi cégek számára.</p>\n<p><strong>Szükséges szerszámok</strong></p>\n<p>A peremes hatlapfejű csavar rögzítéséhez, illetve rögzítésének oldásához dugókulcs, villáskulcs, csillagkulcs használható, hiszen a csavartípus lényeges jellemzője, hogy a síkból kiemelkedik, hatoldalú, egyforma téglalapokból álló térbeli megoldásával.</p>\n<p><strong>Minőségi kritériumok</strong></p>\n<p>A felhasználás helyétől függően szükséges lehet magasabb minőségű – horganyzott vagy rozsdamentes –peremes hatlapfejű csavar változatokra. A munka diktál, Ön csak kövesse, hiszen a tartósság az egyik legfőbb szempont.</p>\n<p> </p>\n<h2>Borbándi Barkács? Amire Önnek szüksége van. Nálunk mindent megtalál!</h2>\n\n",
         "kind": "section"
       }
-    ],
-    "downloads": []
+    ]
   },
   {
     "slug": "kis-metrikus-csavarok",
@@ -1140,8 +1115,7 @@ export const cataloguePages = [
         "html": "\n\n\n<p><strong>Lencsefejű kereszthornyú csavar – nem éppen a tündérmese férfias változata…</strong></p>\n<p>Ha a fura poén nem lenne közérthető, elmondanánk, hogy a Hamupipőke meséjére kívántunk utalni, ahol a főszereplő feladata a lencse hamuból történő kiválogatása volt a bál előtt…</p>\n<p>Nos, Önre semmiféle ilyen jellegű feladat nem vár, egyszerűen vásárol tőlünk, majd megoldja otthoni vagy éppen céges munkálatait a lencsefejű kereszthornyú csavar készletével.</p>\n<p><strong>Alkalmazható szerszámok</strong></p>\n<p>A lencsefejű kereszthornyú csavar ki-, illetve becsavarása a hagyományos csavarhúzókkal – normál vagy csillag alakú változatban – történik. Kis mérete okán kézzel nehezebben fogható, éppen ezért nem árt, ha kéznél van a csavarhúzó mágneses változata is.</p>\n<p>Az, hogy Ön a könnyített vagy a nehezített feladatot választja a lencsefejű kereszthornyú csavar be-, illetve kitekeréséhez, maximálisan saját választása…</p>\n<p><strong>Lencsefejű kereszthornyú csavar kínálat – hogy minden munkához a legideálisabbat használhassa</strong></p>\n<ul>\n<li>Méretek széles választéka</li>\n<li>Felületkezelés: minden D-fejű kereszthornyú csavar horganyzott!</li>\n</ul>\n<h2>A tökéletes munka a tökéletes alapanyagoknál kezdődik.</h2>\n\n",
         "kind": "section"
       }
-    ],
-    "downloads": []
+    ]
   },
   {
     "slug": "lemezcsavarok",
@@ -1298,8 +1272,7 @@ export const cataloguePages = [
         "html": "\n\n\n<h4><strong>Különleges kötőelem egy különleges építőelemhez</strong></h4>\n<p>Vannak speciális esetek, amikor a szokványos csavarok hossza nem elégséges a munkához – ilyen helyzet, amikor a modern világ gyakori és olcsó építőeleme, a szendvicspanel kerül terítékre.</p>\n<p>Ilyenkor egyáltalán nem lehet kísérletezni „ilyen-olyan” csavarokkal. A tökéletes választást mindenféleképpen a szendvicspanel csavarok jelentik, melyek hossza lehetővé teszi, hogy vastagabb rétegeket, továbbá több réteget rögzítsünk egymáshoz.</p>\n<p>A szendvicspanel csavarok alátéttel rendelkeznek a biztosabb rögzítés érdekében.</p>\n<p><strong>Önmetsző vég a gyors munka lelke</strong></p>\n<p>Amennyiben az önmetsző csavarváltozatokat választjuk, megkönnyítjük saját munkánkat, illetve lerövidítjük azt az időt, amit a munkával töltünk, hiszen nincsen szükség előfúrásra. A nagy szendvicspanel csavarok természetesen önmetsző véggel rendelkeznek az egyszerűség érdekében.</p>\n<p><strong>Szendvicspanel csavarok – széles kínálat a Borbándi Barkácsnál</strong></p>\n<ul>\n<li><strong>Méretek:</strong> több méretben is kapható – a legjobb munkák megvalósításáért.</li>\n<li><strong>Felületkezelés:</strong> kizárólag acél-horganyzott változatban kaphatóak</li>\n<li><strong>Kiszerelések:</strong> amennyiben a kedves vásárlóink Hatlapfejű állványcsavar iránt érdeklődnek, tőlünk többféle kiszerelésben szerezhetik be a terméket.</li>\n</ul>\n<h2>Szendvicspanel csavarok – a profi és gyors munkáért!</h2>\n\n",
         "kind": "section"
       }
-    ],
-    "downloads": []
+    ]
   },
   {
     "slug": "termekeink/epiteszeti-es-faipari-csavarok",
@@ -1468,7 +1441,6 @@ export const cataloguePages = [
         "html": "\n\n\n<h4><strong>Lényeges kérdés: a minősítés</strong></h4>\n<ul>\n<li>A minősített faszerkezet építő lapos fejű csavar (ETA-14/0132) minősítéssel rendelkezik.</li>\n<li>A hegyén a vágóél és a recézett menetkialakítás előfúrás nélküli behajtást tesz lehetővé.</li>\n<li>A minősített faszerkezet építő lapos fejű csavar egyéb elnevezései: Ács csavar, TKS csavar, Ácsszerkezeti csavar.</li>\n</ul>\n<p><strong>A minősített faszerkezet építő lapos fejű csavar – kínálat Borbándi Barkácsnál</strong></p>\n<ul>\n<li>Méretek: több méretben is kapható – a legjobb munkák megvalósításáért.</li>\n<li>Felületkezelés: acél-sárga horganyzott változatban kaphatóak</li>\n<li>Kiszerelések: amennyiben a kedves vásárlóink minősített faszerkezet építő lapos fejű csavar iránt érdeklődnek, tőlünk darabos kiszerelésben szerezhetik be a terméket.</li>\n</ul>\n\n",
         "kind": "section"
       }
-    ],
-    "downloads": []
+    ]
   }
 ];

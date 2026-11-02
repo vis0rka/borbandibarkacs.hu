@@ -1,6 +1,6 @@
 # Kimaradt oldalak – ellenőrzőlista
 
-Állapot: a főoldal és mind a 20 tervezett aloldal elkészült. A főoldali szakaszok nem helyettesítik a részletes aloldalakat.
+Állapot: a főoldal és mind a 19 tervezett aloldal elkészült. A főoldali szakaszok nem helyettesítik a részletes aloldalakat.
 
 Forrás: a Wayback Machine 2026. április 11-i főoldalmentésének menü- és tartalmi hivatkozásai. A lista nem teljes archív oldaltérkép; további oldalak is előkerülhetnek.
 
@@ -8,7 +8,6 @@ A jelölőnégyzetet akkor pipáljuk ki, ha az adott oldalt az archívumban elle
 
 ## Fő aloldalak
 
-- [x] **Akciók** — `/akciok/` · [Wayback-mentések](https://web.archive.org/web/*/https://borbandibarkacs.hu/akciok/)
 - [x] **Forgalmazott márkáink** — `/forgalmazott-markaink/` · [Wayback-mentések](https://web.archive.org/web/*/https://borbandibarkacs.hu/forgalmazott-markaink/)
 - [x] **Termékeink – részletes terméklista** — `/termekeink/` · [Wayback-mentések](https://web.archive.org/web/*/https://borbandibarkacs.hu/termekeink/)
 - [x] **Szolgáltatásaink – összefoglaló oldal** — `/szolgaltatasaink/` · [Wayback-mentések](https://web.archive.org/web/*/https://borbandibarkacs.hu/szolgaltatasaink/)
@@ -61,7 +60,6 @@ A négy részletes szolgáltatásoldal tartalma az archív mentésekből vissza�
 
 ## Elkészült fő aloldalak
 
-- Akciók: a két 2019-es ajánlat lejártként jelölve, a két PDF archív mentése hiányos; az eredeti akciós oldalhoz Wayback-hivatkozás vezet.
 - Forgalmazott márkáink: tíz eredeti márkabemutatás, hét visszanyert logó. Három logó helyén márkanév jelenik meg.
 - Termékeink: tizenkét kategória, az archív HTML-ből átvett 219 listatétellel, az eredeti szakaszazonosítókkal.
 - Rólunk: a teljes bemutatkozó szöveg visszaállítva. Az eredeti galéria nyolc további képe nem volt letölthető; a már korábban visszanyert üzletfotó jelenik meg.
@@ -71,4 +69,4 @@ Források és korlátok: MAIN-PAGES-SOURCES.md.
 
 ## Márka-, termékcsalád- és rögzítéstechnikai oldalak
 
-A három márkaoldal és hét csavaroldal szöveges tartalma visszaállítva. Az eredeti leírások és típusszámok archív tartalomként szerepelnek, új készletadat vagy ár nem került hozzájuk. A három további katalógus és a képek nem voltak helyben letölthetők; a katalógusok Wayback-hivatkozásai elérhetők, működésük az archívumtól függ. Források és részletek: PRODUCT-PAGES-SOURCES.md.
+A három márkaoldal és hét csavaroldal szöveges tartalma visszaállítva. Az eredeti leírások és típusszámok archív tartalomként szerepelnek, új készletadat vagy ár nem került hozzájuk. A képek egy része nem volt helyben letölthető. A PDF-katalógusok és az Akciók oldal a felhasználó kérésére kimaradtak. Források és részletek: PRODUCT-PAGES-SOURCES.md.
