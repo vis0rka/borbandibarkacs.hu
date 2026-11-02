@@ -1,0 +1,13 @@
+node_modules
+.env*
+.next
+next-env.d.ts
+/dist/
+.vinext/
+.cloudflare/
+
+# Local restoration sources and starter backups
+work/
+
+# TypeScript incremental build cache
+*.tsbuildinfo

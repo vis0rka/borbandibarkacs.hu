@@ -1,0 +1,8 @@
+import type { Metadata } from "next";
+import ContentPage,{articleStyles} from "../content-page";
+import {container,ServiceContact} from "../service-content";
+import {ArrowUpRight} from "../icons";
+import {brandLinks} from "../product-links";
+import {archivedBrands} from "../main-data";
+export const metadata:Metadata={title:"Forgalmazott márkáink – Borbándi Barkács",description:"Sika, DeWalt, Krause, Nilfisk, Milwaukee, Knipex, Leica Geosystems, Apolo MEA, Extol és Wera márkák a Borbándi Barkácsnál."};
+export default function Brands(){return <ContentPage title="Forgalmazott márkáink" eyebrow="Bevált gyártók, megbízható eszközök"><div className={`${container} py-12 md:py-16`}><div className="mb-8 flex flex-wrap gap-3">{brandLinks.map(link=><a key={link.href} href={link.href} className="inline-flex items-center gap-2 border border-brand px-4 py-3 text-sm font-semibold text-brand hover:bg-cream">{link.label}<ArrowUpRight className="size-4" aria-hidden="true"/></a>)}</div><nav className="mb-12 flex flex-wrap gap-2" aria-label="Márkák">{archivedBrands.map(b=><a className="border border-line px-4 py-2 text-xs font-semibold text-brand hover:border-brand" key={b.id} href={`#${b.id}`}>{b.name}</a>)}</nav><div className="space-y-8">{archivedBrands.map(b=><section id={b.id} key={b.id} className="grid scroll-mt-32 gap-7 border border-line p-6 md:grid-cols-[190px_1fr] md:gap-10 md:p-9"><div>{b.image ? <img className="mb-5 size-40 object-contain" src={`/images/${b.image}`} alt={`${b.name} logó`} width="160" height="160" loading="lazy"/>:null}<h2 className="text-xl">{b.name}</h2></div><div className={articleStyles} dangerouslySetInnerHTML={{__html:b.html}}/></section>)}</div></div><ServiceContact/></ContentPage>;}

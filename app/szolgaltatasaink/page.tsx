@@ -1,0 +1,9 @@
+import type { Metadata } from "next";
+import SiteHeader from "../site-header";
+import SiteFooter from "../site-footer";
+import { container, ServiceContact } from "../service-content";
+import { services } from "../services-data";
+import { ArrowUpRight, Fence, Drill, MessagesSquare, Truck } from "../icons";
+export const metadata: Metadata={title:"Szolgáltatásaink – Borbándi Barkács",description:"Állványbérlés, gépkölcsönzés, szaktanácsadás és országos kiszállítás a Borbándi Barkács szaküzletben, Szolnokon."};
+const icons={Fence,Drill,MessagesSquare,Truck};
+export default function Services(){return <><SiteHeader/><main id="tartalom"><section className="border-b border-line bg-brand-dark py-14 text-white md:py-20"><div className={container}><nav className="mb-8 flex gap-2 text-xs text-slate-300" aria-label="Morzsamenü"><a href="/">Főoldal</a><span aria-hidden="true">/</span><span aria-current="page">Szolgáltatásaink</span></nav><span className="mb-4 block text-[11px] font-bold tracking-[2px] text-[#ffd6b4] uppercase">Borbándi Barkács</span><h1 className="text-4xl tracking-tight md:text-6xl">Szolgáltatásaink</h1><div className="mt-6 h-[3px] w-12 bg-brand-orange"/></div></section><section className={`${container} grid gap-6 py-14 md:grid-cols-2 md:py-20`}>{services.map(service=>{const Icon=icons[service.icon];return <article key={service.slug} className="flex flex-col items-start border border-line p-7 md:p-10"><Icon className="mb-6 size-11 text-brand" strokeWidth={1.5} aria-hidden="true"/><h2 className="mb-4 text-2xl">{service.title}</h2><p className="max-w-xl text-sm text-muted">{service.summary}</p><a href={`/${service.slug}/`} className="mt-auto inline-flex items-center gap-3 pt-4 text-sm font-semibold text-brand hover:underline">Részletek<ArrowUpRight className="size-4" aria-hidden="true"/></a></article>})}</section><ServiceContact/></main><SiteFooter/></>;}
