@@ -3,7 +3,9 @@
   "name": "borbandibarkacs-hu",
   "compatibility_date": "2026-11-02",
   "compatibility_flags": ["nodejs_compat"],
-  // After `npm run build`, Wrangler deploys the Vite Cloudflare output.
+  "build": {
+    "command": "npm run build"
+  },
   "main": ".cloudflare/output/v0/workers/default/bundle/index.js",
   "assets": {
     "directory": ".cloudflare/output/v0/workers/default/assets",
