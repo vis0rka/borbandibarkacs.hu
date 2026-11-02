@@ -1,0 +1,28 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "borbandibarkacs-hu",
+  "compatibility_date": "2026-11-02",
+  "compatibility_flags": ["nodejs_compat"],
+  // After `npm run build`, Wrangler deploys the Vite Cloudflare output.
+  "main": ".cloudflare/output/v0/workers/default/bundle/index.js",
+  "assets": {
+    "directory": ".cloudflare/output/v0/workers/default/assets",
+    "binding": "ASSETS",
+    "html_handling": "none",
+    "not_found_handling": "none",
+    "run_worker_first": ["/*", "!/_next/static/*", "!/*/_next/static/*"]
+  },
+  "images": {
+    "binding": "IMAGES"
+  },
+  "version_metadata": {
+    "binding": "CF_VERSION_METADATA"
+  },
+  "services": [
+    {
+      "binding": "RESPONSE_STORE",
+      "service": "borbandibarkacs-hu-response-store",
+      "entrypoint": "ResponseStoreService"
+    }
+  ]
+}
