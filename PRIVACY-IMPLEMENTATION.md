@@ -22,3 +22,6 @@ Források:
 - https://www.naih.hu/ugyfelszolgalat-kapcsolat
 
 Ellenőrzés: TypeScript és éles build sikeres (21 előrenderelt útvonal). Böngészőben ellenőrizve: magyar első látogatási sáv, elfogadás utáni térkép, visszavonás utáni eltávolítás, elutasítás megőrzése újratöltés után, láblécből újranyitható magyar beállítóablak.
+
+## Módosítás a tulajdonos kérésére
+A Google Térkép mindig elérhető, a sütiválasztástól függetlenül betöltődő iframe. Az externalMedia kategóriát és a hozzájárulási kaput eltávolítottuk; revision: 2. A fenti hozzájárulásos teszteredmények az előző verzióra vonatkoznak. A felületen csak szükséges süti marad, a gomb tudomásulvétel, nem Google-hozzájárulás. A térképet nem minősítjük jogilag feltétlenül szükséges sütinek. Az automatikus külső adattovábbítás és a Google sütijeinek hozzájárulás nélküli alkalmazása jogalapvizsgálatot igényel; ez nincs lezárva.
