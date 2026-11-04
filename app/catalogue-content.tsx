@@ -10,7 +10,6 @@ export default function CatalogueContent({slug}:{slug:string}){
  return <ContentPage title={page.title} eyebrow={page.group==="brand" ? "Márkák és termékcsaládok" : "Csavarok és rögzítéstechnika"}>
   <div className={`${container} py-10 md:py-14`}>
    <nav className="mb-9 flex flex-wrap gap-2" aria-label={page.group==="brand" ? "Márkaoldalak" : "Rögzítéstechnikai oldalak"}>{peers.map(p=><a key={p.slug} href={`/${p.slug}/`} aria-current={p.slug===slug ? "page" : undefined} className={`border px-3 py-2 text-xs transition-colors hover:border-brand ${p.slug===slug ? "border-brand bg-brand text-white" : "border-line text-brand"}`}>{p.title}</a>)}</nav>
-   <p className="mb-9 border-l-3 border-brand-orange bg-cream px-5 py-4 text-sm leading-7 text-muted">A korábbi honlap termékbemutatója. Az aktuális árakról és elérhetőségről érdeklődjön <a className="font-semibold text-brand underline" href="#kapcsolat">üzletünkben</a>.</p>
    <div className="grid items-start gap-10 lg:grid-cols-[1fr_260px]">
     <article className="min-w-0">
      <div className="mb-8 text-brand"><Icon className="size-11" strokeWidth={1.5} aria-hidden="true"/></div>
