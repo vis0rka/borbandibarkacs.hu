@@ -63,7 +63,7 @@ A négy részletes szolgáltatásoldal tartalma az archív mentésekből vissza�
 - Forgalmazott márkáink: tíz eredeti márkabemutatás, hét visszanyert logó. Három logó helyén márkanév jelenik meg.
 - Termékeink: tizenkét kategória, az archív HTML-ből átvett 219 listatétellel, az eredeti szakaszazonosítókkal.
 - Rólunk: a teljes bemutatkozó szöveg visszaállítva. Az eredeti galéria nyolc további képe nem volt letölthető; a már korábban visszanyert üzletfotó jelenik meg.
-- Adatvédelmi irányelvek: a történeti tájékoztató archiváltként jelölve. Az új működéshez igazított aktuális jogi szöveg még hátravan.
+- Adatvédelmi irányelvek: 2026-11-04-én frissítve a megerősített cégcímmel, Cloudflare-tárhellyel és hozzájáruláshoz kötött Google Térképpel. Google Ads / Meta Pixel inaktív. A tényleges infrastruktúra- és levelezési megőrzési beállítások ellenőrzése még szükséges; lásd PRIVACY-IMPLEMENTATION.md.
 
 Források és korlátok: MAIN-PAGES-SOURCES.md.
 

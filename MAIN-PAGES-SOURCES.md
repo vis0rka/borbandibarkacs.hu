@@ -13,7 +13,7 @@
 - A terméklista az eredeti 12 kategóriát és 219 listatételt tartalmazza. Az eredeti felsorolások esetleges ismétlései megmaradtak.
 - A márkalogók közül hét visszanyerhető volt. A Nilfisk, Knipex és Leica logó helyén márkanév jelenik meg.
 - A Rólunk oldal nyolc további galériaképe nem volt letölthető. A korábban visszanyert üzletfotó szerepel.
-- Az adatvédelmi szöveg kifejezetten archiváltként jelenik meg, keresőindexelése letiltott. Történeti tárhely-, hírlevél- és cookie-leírásai nem az új oldal működésének állításai. Aktuális szöveg még szükséges.
+- Az eredeti adatvédelmi szöveget 2026-11-04-én az új működéshez igazított tájékoztató váltotta fel; nem az archivált szöveg jelenik meg. A jelenlegi működés és további ellenőrzési pontok a PRIVACY-IMPLEMENTATION.md fájlban találhatók.
 - A kapcsolati űrlap a látogató levelezőprogramját nyitja meg. Az archivált szöveg visszaállítása nem kötött be hírlevelet, követőkódot vagy szerveroldali levélküldést.
 
 
